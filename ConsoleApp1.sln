@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelDemo", "ParallelDemo\ParallelDemo.csproj", "{70A31F35-786A-4C89-8C59-C5A4ACFB32D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dcWeb", "dcWeb\dcWeb.csproj", "{37FCA64C-6A77-4D4E-9792-251848BD3B81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eventDrivenDemo", "eventDrivenDemo\eventDrivenDemo.csproj", "{ABC55738-F8EF-405C-A48D-B44A0FA1CA4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{70A31F35-786A-4C89-8C59-C5A4ACFB32D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70A31F35-786A-4C89-8C59-C5A4ACFB32D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70A31F35-786A-4C89-8C59-C5A4ACFB32D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37FCA64C-6A77-4D4E-9792-251848BD3B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37FCA64C-6A77-4D4E-9792-251848BD3B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37FCA64C-6A77-4D4E-9792-251848BD3B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37FCA64C-6A77-4D4E-9792-251848BD3B81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC55738-F8EF-405C-A48D-B44A0FA1CA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC55738-F8EF-405C-A48D-B44A0FA1CA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC55738-F8EF-405C-A48D-B44A0FA1CA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC55738-F8EF-405C-A48D-B44A0FA1CA4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
