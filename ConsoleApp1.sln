@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dcWeb", "dcWeb\dcWeb.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eventDrivenDemo", "eventDrivenDemo\eventDrivenDemo.csproj", "{ABC55738-F8EF-405C-A48D-B44A0FA1CA4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dgHelper", "dgHelper\dgHelper.csproj", "{513936C8-1173-4BAC-A40D-FB7F01E0B258}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{ABC55738-F8EF-405C-A48D-B44A0FA1CA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABC55738-F8EF-405C-A48D-B44A0FA1CA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABC55738-F8EF-405C-A48D-B44A0FA1CA4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{513936C8-1173-4BAC-A40D-FB7F01E0B258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513936C8-1173-4BAC-A40D-FB7F01E0B258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513936C8-1173-4BAC-A40D-FB7F01E0B258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513936C8-1173-4BAC-A40D-FB7F01E0B258}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
